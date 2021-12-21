@@ -1,0 +1,31 @@
+body {
+  background-color: #EAEAEA;
+  font-style: haverdica;
+  font-size: 20px;
+}
+  h1 {
+    background-color: #2E4C6D;
+    color: #DADDFC;
+  }
+  h2 {
+    background-color: #DADDFC;
+  }
+  h3 {
+    background-color: #DADDFC;
+  }
+  h4 {
+    background-color: #DADDFC;
+  }
+  h5 {
+    background-color: #DADDFC;
+  }
+hr {
+  background-color: white;
+  border-style: dotted;
+  border-top-style: none;
+  border-color: grey;
+  border-width: 5px;
+  height: 1px;
+  width: 5%;
+
+}
